@@ -32,6 +32,7 @@ _testmain.go
 **/.idea/workspace.xml
 .vscode/
 .vscode/launch.json
+debug
 
 # mac hidden files
 .DS_Store
